@@ -26,7 +26,7 @@ You will record your relationships within this readme file.  When writing down t
 
 ### Deliverable 2 - Data Manipulation Language (10 Points)
 Create a file called **lab3.sql** and add the following queries into the file.  You will need to take a screenshot of the rendered output for each command and place a screenshot of your output beneath the example output provided.  Make sure to place a SQL comment above each command identifying the query.  In order to make changes to the data, you may need to change the SQL Editor settings.  You can do this by navigating to EDIT -> SQL Editor -> and unchecking Safe Updates.  It is advised to restart MySQL Workbench after changing this setting.
-<br>First, write the SQL commands to insert data into each of the tables. Your insert statements should also be included in the lab2.sql file.  **The data files are listed in the repository for this lab**
+<br>First, write the SQL commands to insert data into each of the tables. Your insert statements should also be included in the lab3.sql file.  **The data files are listed in the repository for this lab**
 1.  Write the SQL command to list all clients and all the columns pertaining to a client.  The intended output is below.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/1.PNG" width="350" alt="output query 1"/>
 2.  Write the SQL command to change client Chris Isaac to Chris Pearson.  No output for this command
